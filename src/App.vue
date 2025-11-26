@@ -27,6 +27,8 @@ onMounted(() => {
        <Aboute msg="О нас" v-if="activeTab==1"></Aboute>
        <Company msg="Компания" v-if="activeTab==2"></Company> -->
 
+       <!-- Muhammad -->
+
         <ul class="nav">
             <li class="nav-item">
                 <RouterLink to="/" class="nav-link" aria-current="page" href="#">Главная</RouterLink>
